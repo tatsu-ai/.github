@@ -41,7 +41,7 @@ We welcome contributions from the community! If you have ideas, bug fixes, or im
 
 Have questions or need assistance? Reach out to us through our [official website]() or open an [issue](link-to-issues) in the relevant repository.
 
-Thank you for being a part of the 1OG.ai community!
+Thank you for being a part of the 1OG AI community!
 
 
 [![Follow us on LinkedIn](https://www.linkedin.com/company/1og-ai/)]
