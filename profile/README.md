@@ -1,12 +1,12 @@
-# 1OG AI
+# TATSU AI
 
-Welcome to the official GitHub repository for 1OG AI!
+Welcome to the official GitHub repository for TATSU AI!
 
 ## About Us
 
-1OG AI is a technology company dedicated to solving real-world problems through innovative AI solutions. We leverage artificial intelligence to create products that streamline processes, enhance user experiences, and drive business growth.
+TATSU AI is a technology company dedicated to solving real-world problems through innovative AI solutions. We leverage artificial intelligence to create products that streamline processes, enhance user experiences, and drive business growth.
 
-<img width="393" alt="microsoft" src="https://github.com/1og-ai/.github/assets/61317144/2773a2db-ef7f-4a95-9dc3-7575b6b2006f">
+<img width="393" alt="MS_Startups_Celebration_Badge_Dark" src="https://github.com/tatsu-ai/.github/assets/61317144/342eb048-5e3e-4290-a36a-fb7b83ad52db">
 
 ## Key Products
 
